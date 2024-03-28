@@ -1,0 +1,16 @@
+v1: Checksum: (GRQO)
+
+Incorporated 11.0.7 combat
+Fixed special unit toolbar UI
+Added general events
+
+v2: Checksum (XAAX)
+
+Updated to 12.0.9 combat (don't think there was changes anyways)
+Incorporated borderless UI tabs 
+Reworked generals so instead of 5 attack and 6 defence you get 1 static 4/4 like IGOR
+Incorporated colour coded generals
+Incorporated meme rivers
+Cleaned up bookmark
+Cleaned up excess files (Meme rivers still make the mod 10x the size than prior though :(
+Fixed France owning some overseas colonies in different start dates
