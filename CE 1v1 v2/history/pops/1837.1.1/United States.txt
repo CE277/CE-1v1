@@ -1,0 +1,43 @@
+#Binghamton (352000/88000 POPS)
+235 = {
+
+
+	farmers = {
+		culture = yankee
+		religion = protestant
+		size = 100
+	}
+}
+#Roanoke (120000/30000 POPS)
+216 = {
+
+	farmers = {
+		culture = dixie
+		religion = protestant
+		size = 100
+	}
+
+}
+#Columbia (340000/85000 POPS)
+206 = {
+	clergymen = {
+		culture = cherokee
+		religion = protestant
+		size = 100
+	}
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 100
+	}
+}
+#Lubbock (8000/2000 POPS)
+135 = {
+
+
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 101
+	}
+}

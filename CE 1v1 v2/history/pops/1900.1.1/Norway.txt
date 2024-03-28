@@ -1,0 +1,9 @@
+#Trondelag-Nordland Region - 304000
+#Christiansand (164000/41000 POPS)
+310 = {
+	clergymen = {
+		culture = norwegian
+		religion = protestant
+		size = 100
+	}
+}

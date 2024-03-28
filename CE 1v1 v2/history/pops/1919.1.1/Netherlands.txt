@@ -1,0 +1,580 @@
+#Holland & Zeeland Region - 2908950
+#Amsterdam (997600/249400 POPS)
+375 = {
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 187.05
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 17462.3
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 1259.9
+    }
+
+    officers = {
+        culture = north_german
+        religion = protestant
+        size = 124.7
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = protestant
+        size = 40334
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 1384.6
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 25219.5
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 25219.5
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 25219.5
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 25219.5
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 5375
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 157115.55
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 7565.85
+    }
+}
+#Rotterdam (1219050/304762.5 POPS)
+376 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 1889.85
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 1573.8
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 25219.5
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 18913.55
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 5590
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 300423.8
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 3781.85
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 2773.5
+    }
+}
+#Utrecht (326800/81700 POPS)
+377 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 754.65
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 440.75
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 25219.5
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 5043.9
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 5375
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 61849.05
+    }
+}
+#Middelburg (365500/91375 POPS)
+378 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 754.65
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 503.1
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 4287.1
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 5375
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 94066.8
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 376.25
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 2773.5
+    }
+}
+#Limburg-Gelderland Region - 2105710
+#Eindhoven (494500/123625 POPS)
+379 = {
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 627.8
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 1008.35
+    }
+
+    officers = {
+        culture = north_german
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = protestant
+        size = 2515.5
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 754.65
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 5420.15
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 5375
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 134923.25
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 124.7
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 376.25
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 7565.85
+    }
+}
+#Breda (372380/93095 POPS)
+380 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 754.65
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 503.1
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 9455.7
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 5375
+    }
+
+    labourers = {
+        culture = north_german
+        religion = protestant
+        size = 88392.95
+    }
+}
+#Maastricht (353030/88257.5 POPS)
+381 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 754.65
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 503.1
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 12609.75
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 5375
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 84608.95
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 2773.5
+    }
+}
+#Arnhem (885800/221450 POPS)
+382 = {
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 1259.9
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 1889.85
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 1259.9
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 10464.05
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 5375
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 250554.55
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 124.7
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 627.8
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 8068.95
+    }
+}
+#Friesland-Groningen Region : 1534670
+#Groningen (401190/100297.5 POPS)
+383 = {
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 627.8
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 754.65
+    }
+
+    officers = {
+        culture = north_german
+        religion = protestant
+        size = 376.25
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = protestant
+        size = 20167
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 503.1
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 17653.65
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 19350
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 89401.3
+    }
+
+    labourers = {
+        culture = north_german
+        religion = protestant
+        size = 2773.5
+    }
+}
+#Zwolle (511700/127925 POPS)
+384 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 1259.9
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 754.65
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 9834.1
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 5375
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 107938.6
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 251.55
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 2268.25
+    }
+}
+#Leeuwarden (449780/112445 POPS)
+385 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 754.65
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 692.3
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 15131.7
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 5375
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 112791.15
+    }
+}
+#Assen (172000/43000 POPS)
+386 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 376.25
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 251.55
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 2773.5
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 5375
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 42241.05
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 2773.5
+    }
+}
+

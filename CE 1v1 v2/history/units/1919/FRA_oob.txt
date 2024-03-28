@@ -1,0 +1,996 @@
+
+
+
+army = {
+	name = "Garde Royale"
+	location = 396
+	regiment = {
+		name= "1.Garde Royale"
+		type = tank 
+		home = 425
+	}
+
+	regiment = {
+		name= "2.Garde Royale"
+		type = tank 
+		home = 426
+	}
+
+	regiment = {
+		name= "3.Garde Royale"
+		type = tank 
+		home = 427
+	}
+
+	regiment = {
+		name= "4.Garde Royale"
+		type = tank 
+		home = 440
+	}
+	
+	regiment = {
+		name= "1.Cavalerie de la Garde"
+		type = tank 
+		home = 458
+	}
+
+	regiment = {
+		name= "2.Cavalerie de la Garde"
+		type = plane 
+		home = 420
+	}
+
+	regiment = {
+		name= "3.Cavalerie de la Garde"
+		type = plane 
+		home = 418
+	}
+
+	regiment = {
+		name= "4.Cavalerie de la Garde"
+		type = plane 
+		home = 406
+	}
+	
+	regiment = {
+		name= "1.2ème Division"
+		type = plane 
+		home = 451
+	}
+	
+	regiment = {
+		name= "1.3ème Division"
+		type = plane 
+		home = 447
+	}
+}
+army = {
+	name = "1ère Armée"
+	location = 397
+	regiment = {
+		name= "1.1ère Division d'Infanterie"
+		type = tank 
+		home = 438
+	}
+
+	regiment = {
+		name= "2.1ère Division d'Infanterie"
+		type = tank 
+		home = 400
+	}
+
+	regiment = {
+		name= "3.1ère Division d'Infanterie"
+		type = tank 
+		home = 401
+	}
+
+	regiment = {
+		name= "1.2ème Division d'Infanterie"
+		type = tank 
+		home = 441
+	}
+
+	regiment = {
+		name= "2.2ème Division d'Infanterie"
+		type = tank 
+		home = 2570
+	}
+
+	regiment = {
+		name= "3.2ème Division d'Infanterie"
+		type = plane 
+		home = 404
+	}
+
+	regiment = {
+		name= "1.3ème Division d'Infanterie"
+		type = plane 
+		home = 402
+	}
+
+	regiment = {
+		name= "2.3ème Division d'Infanterie"
+		type = plane 
+		home = 403
+	}
+
+	regiment = {
+		name= "3.3ème Division d'Infanterie"
+		type = plane 
+		home = 399
+	}
+	
+	regiment = {
+		name= "1.10ème Division d'Infanterie"
+		type = plane 
+		home = 411
+	}
+}
+	
+army = {
+	name = "Armée d'Algerie"
+	location = 412
+	regiment = {
+		name= "1.4ème Division d'Infanterie"
+		type = tank 
+		home = 425
+	}
+
+	regiment = {
+		name= "2.4ème Division d'Infanterie"
+		type = tank 
+		home = 423
+	}
+
+	regiment = {
+		name= "3.4ème Division d'Infanterie"
+		type = tank 
+		home = 432
+	}
+
+	regiment = {
+		name= "1.5ème Division d'Infanterie"
+		type = tank 
+		home = 439
+	}
+
+	regiment = {
+		name= "2.5ème Division d'Infanterie"
+		type = tank 
+		home = 433
+	}
+
+	regiment = {
+		name= "3.5ème Division d'Infanterie"
+		type = plane 
+		home = 431
+	}
+
+	regiment = {
+		name= "1.6ème Division d'Infanterie"
+		type = plane 
+		home = 429
+	}
+
+	regiment = {
+		name= "2.6ème Division d'Infanterie"
+		type = plane 
+		home = 442
+	}
+
+	regiment = {
+		name= "3.6ème Division d'Infanterie"
+		type = plane 
+		home = 459
+	}
+	
+	regiment = {
+		name= "1.1ème Division"
+		type = plane 
+		home = 387
+	}
+}
+army = {
+	name = "7ème Division d'Infanterie"
+	location = 395
+	regiment = {
+		name= "1.7ème Division d'Infanterie"
+		type = tank 
+		home = 415
+	}
+
+	regiment = {
+		name= "2.7ème Division d'Infanterie"
+		type = tank 
+		home = 416
+	}
+
+	regiment = {
+		name= "3.7ème Division d'Infanterie"
+		type = tank 
+		home = 417
+	}
+
+	regiment = {
+		name= "1.1ère Division de cavalerie"
+		type = tank 
+		home = 422
+	}
+
+	regiment = {
+		name= "2.1ère Division de cavalerie"
+		type = tank 
+		home = 436
+	}
+
+	regiment = {
+		name= "3.1ère Division de cavalerie"
+		type = plane 
+		home = 421
+	}
+	
+	regiment = {
+		name= "3.10ème Division d'Infanterie"
+		type = plane 
+		home = 444
+	}
+
+	regiment = {
+		name= "1.11ème Division d'Infanterie"
+		type = plane 
+		home = 467
+	}
+
+	regiment = {
+		name= "2.11ème Division d'Infanterie"
+		type = plane 
+		home = 454
+	}
+
+	regiment = {
+		name= "3.11ème Division d'Infanterie"
+		type = plane 
+		home = 428
+	}
+
+}
+
+army = {
+	name = "Force d'intervention Espagnole"
+	location = 391
+	regiment = {
+		name= "1.8ème Division d'Infanterie"
+		type = tank 
+		home = 455
+	}
+
+	regiment = {
+		name= "2.8ème Division d'Infanterie"
+		type = tank 
+		home = 457
+	}
+
+	regiment = {
+		name= "3.8ème Division d'Infanterie"
+		type = tank 
+		home = 473
+	}
+
+	regiment = {
+		name= "1.9ème Division d'Infanterie"
+		type = tank 
+		home = 456
+	}
+
+	regiment = {
+		name= "2.9ème Division d'Infanterie"
+		type = tank 
+		home = 470
+	}
+
+	regiment = {
+		name= "3.9ème Division d'Infanterie"
+		type = plane 
+		home = 434
+	}
+
+	regiment = {
+		name= "1.2ème Division de cavalerie"
+		type = plane 
+		home = 462
+	}
+
+	regiment = {
+		name= "2.2ème Division de cavalerie"
+		type = plane 
+		home = 463
+	}
+
+	regiment = {
+		name= "3.2ème Division de cavalerie"
+		type = plane 
+		home = 460
+	}
+	
+	regiment = {
+		name= "2.10ème Division d'Infanterie"
+		type = plane 
+		home = 407
+	}
+
+}
+
+army = {
+	name = "1st Random Army"
+	location = 410
+	regiment = {
+		name= "1.8ème Division d'Infanterie"
+		type = tank 
+		home = 387
+	}
+
+	regiment = {
+		name= "2.8ème Division d'Infanterie"
+		type = tank 
+		home = 388
+	}
+
+	regiment = {
+		name= "3.8ème Division d'Infanterie"
+		type = tank 
+		home = 387
+	}
+
+	regiment = {
+		name= "1.9ème Division d'Infanterie"
+		type = tank 
+		home = 389
+	}
+
+	regiment = {
+		name= "2.9ème Division d'Infanterie"
+		type = tank 
+		home = 388
+	}
+
+	regiment = {
+		name= "3.9ème Division d'Infanterie"
+		type = plane 
+		home = 388
+	}
+
+	regiment = {
+		name= "1.2ème Division de cavalerie"
+		type = plane 
+		home = 389
+	}
+
+	regiment = {
+		name= "2.2ème Division de cavalerie"
+		type = plane 
+		home = 389
+	}
+
+	regiment = {
+		name= "3.2ème Division de cavalerie"
+		type = plane 
+		home = 390
+	}
+	
+	regiment = {
+		name= "2.10ème Division d'Infanterie"
+		type = plane 
+		home = 390
+	}
+
+}
+
+army = {
+	name = "2nd Random Army"
+	location = 409
+	regiment = {
+		name= "1.8ème Division d'Infanterie"
+		type = tank 
+		home = 391
+	}
+
+	regiment = {
+		name= "2.8ème Division d'Infanterie"
+		type = tank 
+		home = 391
+	}
+
+	regiment = {
+		name= "3.8ème Division d'Infanterie"
+		type = tank 
+		home = 392
+	}
+
+	regiment = {
+		name= "1.9ème Division d'Infanterie"
+		type = tank 
+		home = 392
+	}
+
+	regiment = {
+		name= "2.9ème Division d'Infanterie"
+		type = tank 
+		home = 392
+	}
+
+	regiment = {
+		name= "3.9ème Division d'Infanterie"
+		type = plane 
+		home = 392
+	}
+
+	regiment = {
+		name= "1.2ème Division de cavalerie"
+		type = plane 
+		home = 392
+	}
+
+	regiment = {
+		name= "2.2ème Division de cavalerie"
+		type = plane 
+		home = 398
+	}
+
+	regiment = {
+		name= "3.2ème Division de cavalerie"
+		type = plane 
+		home = 397
+	}
+	
+	regiment = {
+		name= "2.10ème Division d'Infanterie"
+		type = plane 
+		home = 395
+	}
+
+}
+
+army = {
+	name = "3rd Random Army"
+	location = 390
+	regiment = {
+		name= "1.1"
+		type = tank 
+		home = 448
+	}
+
+	regiment = {
+		name= "1.2"
+		type = tank 
+		home = 448
+	}
+
+	regiment = {
+		name= "1.3"
+		type = tank 
+		home = 449
+	}
+
+	regiment = {
+		name= "1.4"
+		type = tank 
+		home = 450
+	}
+
+	regiment = {
+		name= "1.5"
+		type = tank 
+		home = 451
+	}
+
+	regiment = {
+		name= "1.6"
+		type = plane 
+		home = 452
+	}
+
+	regiment = {
+		name= "1.7"
+		type = plane 
+		home = 453
+	}
+
+	regiment = {
+		name= "1.8"
+		type = plane 
+		home = 461
+	}
+
+	regiment = {
+		name= "1.9"
+		type = plane 
+		home = 461
+	}
+	
+	regiment = {
+		name= "1.10"
+		type = plane 
+		home = 468
+	}
+
+}
+
+army = {
+	name = "4th Random Army"
+	location = 389
+	regiment = {
+		name= "1.1"
+		type = tank 
+		home = 447
+	}
+
+	regiment = {
+		name= "1.2"
+		type = tank 
+		home = 446
+	}
+
+	regiment = {
+		name= "1.3"
+		type = tank 
+		home = 445
+	}
+
+	regiment = {
+		name= "1.4"
+		type = tank 
+		home = 443
+	}
+
+	regiment = {
+		name= "1.5"
+		type = tank 
+		home = 418
+	}
+
+	regiment = {
+		name= "1.6"
+		type = plane 
+		home = 435
+	}
+
+	regiment = {
+		name= "1.7"
+		type = plane 
+		home = 434
+	}
+
+	regiment = {
+		name= "1.8"
+		type = plane 
+		home = 430
+	}
+
+	regiment = {
+		name= "1.9"
+		type = plane 
+		home = 425
+	}
+	
+	regiment = {
+		name= "1.10"
+		type = plane 
+		home = 424
+	}
+
+}
+
+army = {
+	name = "5th Random Army"
+	location = 388
+	regiment = {
+		name= "1.1"
+		type = tank 
+		home = 415
+	}
+
+	regiment = {
+		name= "1.2"
+		type = tank 
+		home = 414
+	}
+
+	regiment = {
+		name= "1.3"
+		type = tank 
+		home = 413
+	}
+
+	regiment = {
+		name= "1.4"
+		type = tank 
+		home = 412
+	}
+
+	regiment = {
+		name= "1.5"
+		type = tank 
+		home = 396
+	}
+
+	regiment = {
+		name= "1.6"
+		type = plane 
+		home = 397
+	}
+
+	regiment = {
+		name= "1.7"
+		type = plane 
+		home = 408
+	}
+
+	regiment = {
+		name= "1.8"
+		type = plane 
+		home = 405
+	}
+
+	regiment = {
+		name= "1.9"
+		type = plane 
+		home = 399
+	}
+	
+	regiment = {
+		name= "1.10"
+		type = plane 
+		home = 398
+	}
+}
+
+army = {
+	name = "1st Artilleree Armee"
+	location = 2570
+	regiment = {
+		name= "Division de cavalerie"
+		type = plane 
+		home = 420
+	}
+
+	regiment = {
+		name= "1 Division d'Infanterie"
+		type = plane
+		home = 422
+	}
+
+	regiment = {
+		name= "2 Division 'Infanterie"
+		type = plane
+		home = 423
+	}
+
+	regiment = {
+		name= "3 Division 'Infanterie"
+		type = plane
+		home = 424
+	}
+
+	regiment = {
+		name= "4 Division 'Infanterie"
+		type = plane
+		home = 415
+	}
+}
+
+army = {
+	name = "2nd Artilleree Armee"
+	location = 416
+	regiment = {
+		name= "Division de cavalerie"
+		type = plane 
+		home = 417
+	}
+
+	regiment = {
+		name= "1 Division d'Infanterie"
+		type = plane
+		home = 418
+	}
+
+	regiment = {
+		name= "2 Division 'Infanterie"
+		type = plane 
+		home = 399
+	}
+
+	regiment = {
+		name= "3 Division 'Infanterie"
+		type = plane 
+		home = 401
+	}
+
+	regiment = {
+		name= "4 Division 'Infanterie"
+		type = plane 
+		home = 402
+	}
+}
+
+army = {
+	name = "3rd Artilleree Armee"
+	location = 426
+	regiment = {
+		name= "Division de cavalerie"
+		type = plane 
+		home = 403
+	}
+
+	regiment = {
+		name= "1 Division d'Infanterie"
+		type = plane 
+		home = 404
+	}
+
+	regiment = {
+		name= "2 Division 'Infanterie"
+		type = plane 
+		home = 461
+	}
+
+	regiment = {
+		name= "3 Division 'Infanterie"
+		type = plane 
+		home = 395
+	}
+
+	regiment = {
+		name= "4 Division 'Infanterie"
+		type = plane 
+		home = 396
+	}
+}
+
+army = {
+	name = "4th Artilleree Armee"
+	location = 425
+	regiment = {
+		name= "Division de cavalerie"
+		type = plane 
+		home = 408
+	}
+
+	regiment = {
+		name= "1 Division d'Infanterie"
+		type = plane 
+		home = 407
+	}
+
+	regiment = {
+		name= "2 Division 'Infanterie"
+		type = plane 
+		home = 411
+	}
+
+	regiment = {
+		name= "3 Division 'Infanterie"
+		type = plane 
+		home = 414
+	}
+
+	regiment = {
+		name= "4 Division 'Infanterie"
+		type = plane 
+		home = 432
+	}
+}
+
+army = {
+	name = "5th Artilleree Armee"
+	location = 427
+	regiment = {
+		name= "Division de cavalerie"
+		type = plane 
+		home = 410
+	}
+
+	regiment = {
+		name= "1 Division d'Infanterie"
+		type = plane  
+		home = 462
+	}
+
+	regiment = {
+		name= "2 Division 'Infanterie"
+		type = plane  
+		home = 428
+	}
+
+	regiment = {
+		name= "3 Division 'Infanterie"
+		type = plane  
+		home = 429
+	}
+
+	regiment = {
+		name= "4 Division 'Infanterie"
+		type = plane  
+		home = 430
+	}
+}
+
+army = {
+	name = "6th Artilleree Armee"
+	location = 403
+	regiment = {
+		name= "Division de cavalerie"
+		type = plane 
+		home = 433
+	}
+
+	regiment = {
+		name= "1 Division d'Infanterie"
+		type = plane  
+		home = 436
+	}
+
+	regiment = {
+		name= "2 Division 'Infanterie"
+		type = plane  
+		home = 438
+	}
+
+	regiment = {
+		name= "3 Division 'Infanterie"
+		type = plane  
+		home = 440
+	}
+
+	regiment = {
+		name= "4 Division 'Infanterie"
+		type = plane  
+		home = 441
+	}
+}
+army = {
+	name = "7th Artilleree Armee"
+	location = 406
+	regiment = {
+		name= "Division de cavalerie"
+		type = plane 
+		home = 435
+	}
+
+	regiment = {
+		name= "1 Division d'Infanterie"
+		type = plane  
+		home = 437
+	}
+
+	regiment = {
+		name= "2 Division 'Infanterie"
+		type = plane  
+		home = 442
+	}
+
+	regiment = {
+		name= "3 Division 'Infanterie"
+		type = plane  
+		home = 444
+	}
+
+	regiment = {
+		name= "4 Division 'Infanterie"
+		type = plane  
+		home = 446
+	}
+	
+
+}
+
+army = {
+	name = "8th Artilleree Armee"
+	location = 438
+	regiment = {
+		name= "Division de cavalerie"
+		type = plane 
+		home = 458
+	}
+
+	regiment = {
+		name= "1 Division d'Infanterie"
+		type = plane  
+		home = 459
+	}
+
+	regiment = {
+		name= "2 Division 'Infanterie"
+		type = plane  
+		home = 460
+	}
+
+	regiment = {
+		name= "3 Division 'Infanterie"
+		type = plane  
+		home = 455
+	}
+
+	regiment = {
+		name= "4 Division 'Infanterie"
+		type = plane  
+		home = 456
+	}
+}
+
+army = {
+	name = "9th Artillery armee"
+	location = 446
+	regiment = {
+		name= "Division de cavalerie"
+		type = plane 
+		home = 463
+	}
+	regiment = {
+		name= "Division de cavalerie"
+		type = plane 
+		home = 448
+	}
+	regiment = {
+		name= "5 Division d'Infanterie"
+		type = plane  
+		home = 457
+	}
+	regiment = {
+		name= "5 Division d'Infanterie"
+		type = plane  
+		home = 447
+	}
+	regiment = {
+		name= "5 Division d'Infanterie"
+		type = plane  
+		home = 434
+	}
+}
+army = {
+	name = "10th Artillery armee"
+	location = 447
+	regiment = {
+		name= "5 Division d'Infanterie"
+		type = plane  
+		home = 431
+	}
+	regiment = {
+		name= "5 Division d'Infanterie"
+		type = plane 
+		home = 409
+	}
+	regiment = {
+		name= "5 Division d'Infanterie"
+		type = plane 
+		home = 406
+	}
+	regiment = {
+		name= "5 Division d'Infanterie"
+		type = plane 
+		home = 2570
+	}
+	regiment = {
+		name= "5 Division d'Infanterie"
+		type = plane
+		home = 416
+	}
+}
+
+
+
+
+
+
+
+
+
+navy = {
+	name = "Corsica transport"
+	location = 470
+	ship = {
+		name= "ship"
+		type = clipper_transport
+	}
+
+}

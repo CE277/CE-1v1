@@ -1,0 +1,9 @@
+#Norrland Region 328000
+#Lulea (44000/11000 POPS)
+321 = {
+	clergymen = {
+		culture = swedish
+		religion = protestant
+		size = 100
+	}
+}

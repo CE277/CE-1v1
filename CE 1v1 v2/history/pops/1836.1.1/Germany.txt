@@ -1,0 +1,5027 @@
+#Holstein Region (402000)
+#Under rule of Holstein 1836
+#Kiel (256000/64000 POPS)
+369 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 703
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = protestant
+        size = 2050
+    }
+
+    officers = {
+        culture = north_german
+        religion = protestant
+        size = 117
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 674
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 2815
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 25000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 57065
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 58
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 117
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 50
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 2139
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 11
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 574
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 58
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 234
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 5513
+    }
+}
+#Lauenburg (148000/37000 POPS)
+529 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 410
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 439
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 2139
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 2500
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 39295
+    }
+}
+#Lower Elbe Region (557600)
+#Under rule of Hamburg 1836
+#Hamburg (160000/40000 POPS)
+528 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 351
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = protestant
+        size = 1170
+    }
+
+    officers = {
+        culture = north_german
+        religion = protestant
+        size = 28
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 380
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 11730
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 11730
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 11730
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 2500
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 7330
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 58
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 2286
+    }
+}
+#Under rule of Hannover 1836 (396000)
+#Stade (216000/54000 POPS)
+531 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 644
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = protestant
+        size = 580
+    }
+
+    officers = {
+        culture = north_german
+        religion = protestant
+        size = 117
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 586
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 3225
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 2500
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 56362
+    }
+}
+#Lunenburg (180000/45000 POPS)
+532 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 527
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 5278
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 2638
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 2500
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 53840
+    }
+}
+#Under rule of Britain 1836
+#Heligoland (1600/400 POPS)
+533 = {
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 400
+    }
+}
+#Mecklenburg Region (614000)
+#under the Rule of Lubeck 1836
+#Lubeck (40000/10000 POPS)
+530 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 58
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = protestant
+        size = 280
+    }
+
+    officers = {
+        culture = north_german
+        religion = protestant
+        size = 5
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 87
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 6978
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 2500
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 2809
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 351
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 234
+    }
+}
+#under the Rule of Mecklenburg 1836
+#Schwerin (484000/121000 POPS)
+544 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 1436
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = protestant
+        size = 3220
+    }
+
+    officers = {
+        culture = north_german
+        religion = protestant
+        size = 175
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 1407
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 7038
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 2500
+    }
+	
+	
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 28795
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 28
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 1143
+    }
+}
+#Neustrelitz (90000/22500 POPS)
+545 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 234
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 263
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 1318
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 2500
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 3400
+    }
+}
+#Hannover Region (1288000)
+#under the rule of Hannover 1836
+#Hannover (420000/105000 POPS)
+534 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 879
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = protestant
+        size = 5860
+    }
+
+    officers = {
+        culture = north_german
+        religion = protestant
+        size = 351
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 1026
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 6157
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 6600
+    }
+	farmers = {
+        culture = north_german
+        religion = protestant
+        size = 64777
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 87
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 234
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 4310
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 28
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 1143
+    }
+}
+#Nienburg (276000/64000 POPS)
+535 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 644
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 732
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 3811
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 4500
+    }
+	
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 27535
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 28
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 1143
+    }
+}
+#Gottingen (180000/45000 POPS)
+537 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 469
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 497
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 2638
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 2500
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 48004
+    }
+}
+#Osnabruck (220000/55000 POPS)
+538 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 292
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 292
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 2638
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 700
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 31611
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 234
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 292
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 2052
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 500
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 26450
+    }
+}
+#under the rule of Brunswick 1836
+#Brunswick (264000/66000 POPS)
+536 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 586
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = protestant
+        size = 1170
+    }
+
+    officers = {
+        culture = north_german
+        religion = protestant
+        size = 87
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 527
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 9970
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 4000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 240000
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 28
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 50
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 1126
+    }
+}
+#East Frisia Region (496000)
+#under the rule of Bremen 1836
+#Bremen (64000/16000 POPS)
+539 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 117
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = protestant
+        size = 400
+    }
+
+    officers = {
+        culture = north_german
+        religion = protestant
+        size = 17
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 145
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 9970
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 2400
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 6128
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 28
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 1143
+    }
+}
+#under the rule of Oldenburg 1836
+#Oldenburg (184000/46000 POPS)
+540 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 469
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = protestant
+        size = 1450
+    }
+
+    officers = {
+        culture = north_german
+        religion = protestant
+        size = 87
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 497
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 2580
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 4500
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 45512
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 46
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 117
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 2181
+    }
+}
+#Cloppenburg (84000/21000 POPS)
+541 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 145
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 145
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 761
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 250
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 14046
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 87
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 469
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 150
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 8738
+    }
+}
+#under the rule of Hannover 1836
+#Lingen (80000/20000 POPS)
+542 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 175
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = protestant
+        size = 870
+    }
+
+    officers = {
+        culture = north_german
+        religion = protestant
+        size = 58
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 175
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 938
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 400
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 18943
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 75
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 175
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 50
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 3237
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 17
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 1154
+    }
+}
+#Emden (84000/21000 POPS)
+543 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 34
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 81
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 469
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 4046
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 175
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 205
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 1876
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 350
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 17506
+    }
+}
+#Pomerania Region (289000) #see Poland.txt for balance of region
+#under the rule of Prussia 1836
+#Swinemunde (132000/33000 POPS)
+547 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 351
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 380
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 1934
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 3000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 34280
+    }
+}
+#Stralsund (157000/39250 POPS)
+548 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 234
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 234
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 2756
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 3000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 23518
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 175
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 1642
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 3000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 14368
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 286
+    }
+}
+#Brandenburg Region (1628000) #see Poland.txt for balance of region
+#under the rule of Prussia 1836
+#Berlin (772000/193000 POPS)
+549 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 2052
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = protestant
+        size = 31670
+    }
+
+    officers = {
+        culture = north_german
+        religion = protestant
+        size = 703
+    }
+
+    capitalists = {
+        culture = north_german
+        religion = protestant
+        size = 87
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 1759
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 703
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 7653
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 11730
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 11730
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 11730
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 11730
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 11730
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 6334
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 11000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 125451
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 58
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 175
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 1583
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 3988
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 34
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 58
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 586
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 1665
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 58
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 175
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 2169
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 3401
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 0
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 0
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 0
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 0
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 0
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 0
+    }
+}
+#Prenzlau (280000/70000 POPS)
+550 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 821
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 791
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 4105
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 5200
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 73312
+    }
+}
+#Pritzwalk (232000/58000 POPS)
+551 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 644
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 674
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 3519
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 5200
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 60379
+    }
+}
+#Cottbus (344000/86000 POPS)
+552 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 879
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 879
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 4692
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 5000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 83517
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 58
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 351
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 6568
+    }
+}
+#Anhalt Region (1527000)
+#under the rule of Prussia 1836
+#Magdeburg (577200/144300 POPS)
+553 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 1407
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = protestant
+        size = 16420
+    }
+
+    officers = {
+        culture = north_german
+        religion = protestant
+        size = 410
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 1318
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 11730
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 5000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 120495
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 292
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 2052
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 500
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 26685
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 345
+    }
+}
+#Erfurt (220800/55200 POPS)
+554 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 586
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 469
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 3929
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 3000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 46274
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 117
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 879
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 200
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 10615
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 228
+    }
+}
+#Halle (445000/111250 POPS)
+556 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 1348
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 1084
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 5865
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 3000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 107358
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 117
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 674
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 200
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 11993
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 286
+    }
+}
+#Stendal (140000/35000 POPS)
+557 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 410
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 380
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 2052
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 3000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 36685
+    }
+}
+#under the rule of Anhalt 1836
+#Dessau (144000/36000 POPS)
+555 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 380
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = protestant
+        size = 810
+    }
+
+    officers = {
+        culture = north_german
+        religion = protestant
+        size = 28
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 380
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 2228
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 3000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 36427
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 23
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 58
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 20
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 1079
+    }
+}
+#Saxony Region (1379000)
+#under the rule of Saxony 1836
+#Dresden (679000/169750 POPS)
+558 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 1876
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = protestant
+        size = 8210
+    }
+
+    officers = {
+        culture = north_german
+        religion = protestant
+        size = 52
+    }
+
+    capitalists = {
+        culture = north_german
+        religion = protestant
+        size = 28
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 1905
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 87
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 1084
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 11730
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 292
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 3600
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 172553
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 58
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 87
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 1084
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 4574
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 5
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 17
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 175
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 680
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 0
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 0
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 0
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 0
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 0
+    }
+}
+#Leipzig (420000/105000 POPS)
+559 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 1290
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 1290
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 87
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 1026
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 10615
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 2500
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 106508
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 11
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 17
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 87
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 1055
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 0
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 0
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 0
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 0
+    }
+}
+#Chemnitz (280000/70000 POPS)
+560 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 938
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 732
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 11000
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 1336
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 73165
+    }
+}
+#Thuringia Region (865000)
+#under the rule of Saxe-Weimar 1836
+#Weimar (365000/91250 POPS)
+561 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 1290
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = protestant
+        size = 1750
+    }
+
+    officers = {
+        culture = north_german
+        religion = protestant
+        size = 117
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 1026
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 4984
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 2500
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 97856
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 286
+    }
+
+	craftsmen = {
+        culture = north_german
+        religion = protestant
+        size = 0
+    }
+
+	clerks = {
+        culture = north_german
+        religion = protestant
+        size = 0
+    }
+}
+#under the rule of Saxe-Coburg 1836
+#Gotha (292000/73000 POPS)
+562 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 849
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = protestant
+        size = 1450
+    }
+
+    officers = {
+        culture = north_german
+        religion = protestant
+        size = 87
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 791
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 4280
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 3000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 77945
+    }
+	craftsmen = {
+        culture = north_german
+        religion = protestant
+        size = 0
+    }
+}
+#under the rule of Saxe-Meiningen 1836
+#Meiningen (208000/52000 POPS)
+563 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 597
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = protestant
+        size = 1050
+    }
+
+    officers = {
+        culture = north_german
+        religion = protestant
+        size = 58
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 586
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 3049
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 3000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 55189
+    }
+	craftsmen = {
+        culture = north_german
+        religion = protestant
+        size = 0
+    }
+}
+#Hesse Region (1719600)
+#under the rule of Frankfurt 1836
+#Frankfurt-am-Main (64000/16000 POPS)
+564 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 11
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = protestant
+        size = 580
+    }
+
+    officers = {
+        culture = north_german
+        religion = protestant
+        size = 11
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 87
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 11730
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 1465
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 2600
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 732
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 46
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 2111
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 50
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 164
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 11
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 1160
+    }
+}
+#under the rule of Nassau 1836
+#Wiesbaden (402400/100600 POPS)
+565 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 556
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = protestant
+        size = 2050
+    }
+
+    officers = {
+        culture = north_german
+        religion = protestant
+        size = 117
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 527
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 3870
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 3000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 49500
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 615
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 4280
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 3000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 54573
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 11
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 691
+    }
+}
+#under the rule of Hesse-Kassel 1836
+#Kassel (445200/111300 POPS)
+566 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 1026
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = protestant
+        size = 3800
+    }
+
+    officers = {
+        culture = north_german
+        religion = protestant
+        size = 234
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 1026
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 5278
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 9000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 91522
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 263
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 1290
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 400
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 24016
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 345
+    }
+}
+#Fulda (248000/62000 POPS)
+568 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 586
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 586
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 3049
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 3500
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 53781
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 117
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 586
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 200
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 12081
+    }
+}
+#under the rule of Hesse-Darmstadt 1836
+#Giessen (200000/50000 POPS)
+567 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 586
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 586
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 2932
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 3000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 52785
+    }
+}
+#Darmstadt (360000/90000 POPS)
+2560 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 586
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = protestant
+        size = 4690
+    }
+
+    officers = {
+        culture = north_german
+        religion = protestant
+        size = 234
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 586
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 4222
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 3000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 55131
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 439
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 2815
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 800
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 39735
+    }
+}
+#Palatinate-Moselle Region (1815200)
+#under the rule of Baden 1836
+#Mannheim (261000/65250 POPS)
+569 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 234
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 175
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 879
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 300
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 16128
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 469
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 2932
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 1000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 54661
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 286
+    }
+}
+#under the rule of Hesse-Darmstadt 1836
+#Mainz (242200/60550 POPS)
+570 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 586
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 586
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 6920
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 3000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 48796
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 117
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 1290
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 200
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 10205
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 638
+    }
+}
+#under the rule of Bavaria 1836
+#Kaiserslautern (556000/139000 POPS)
+571 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 761
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 761
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 3636
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 2500
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 67330
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 821
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 4457
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 1500
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 82989
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 580
+    }
+}
+#under the rule of Prussia 1836
+#Trier (220000/55000 POPS)
+572 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 351
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = protestant
+        size = 9960
+    }
+
+    officers = {
+        culture = north_german
+        religion = protestant
+        size = 234
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 292
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 1583
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 27887
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 292
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 322
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 1642
+    }
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 30263
+    }
+}
+#Saarbrucken (308000/77000 POPS)
+573 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 292
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 263
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 1465
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 25834
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 527
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 644
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 3049
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 53840
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 145
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 117
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 2199
+    }
+}
+#Kreuznach (228000/57000 POPS)
+574 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 351
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 322
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 1759
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 32345
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 292
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 322
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 1583
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 29178
+    }
+}
+#Rhineland Region (1908000)
+#under the rule of Prussia in 1836
+#Cologne (484000/121000 POPS)
+575 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 1407
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = protestant
+        size = 24630
+    }
+
+    capitalists = {
+        culture = north_german
+        religion = protestant
+        size = 17
+    }
+
+    officers = {
+        culture = north_german
+        religion = protestant
+        size = 586
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 1436
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 145
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 1465
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 11730
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 4251
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 7000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 113792
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 11
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 28
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 175
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 661
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 0
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 0
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 0
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 0
+    }
+}
+#Aachen (400000/100000 POPS)
+576 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 1290
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 996
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 5278
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 5000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 105745
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 11
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 1160
+    }
+}
+#Kleves (356000/89000 POPS)
+577 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 938
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 938
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 4692
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 5000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 84573
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 117
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 87
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 527
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 200
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 9706
+    }
+}
+#Dusseldorf (364000/91000 POPS)
+578 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 821
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 791
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 4926
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 5000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 72871
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 234
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 234
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 1290
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 2800
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 22521
+    }
+
+	clerks = {
+		culture = north_german
+		religion = protestant
+		size = 0
+	}
+
+	craftsmen = {
+		culture = north_german
+		religion = protestant
+		size = 0
+	}
+
+
+}
+#Koblenz (200000/50000 POPS)
+579 = {
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 87
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 234
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 4340
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 527
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 527
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 2756
+    }
+
+	farmers = {
+        culture = north_german
+        religion = protestant
+        size = 49558
+    }
+}
+#Siegburg (104000/26000 POPS)
+2561 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 234
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 234
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 1290
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 2800
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 20292
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 58
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 58
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 380
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 150
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 6451
+    }
+}
+#Westphalia Region (1390000)
+#under the rule of Prussia in 1836
+#Dortmund (380000/95000 POPS)
+580 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 292
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = protestant
+        size = 8210
+    }
+
+    officers = {
+        culture = north_german
+        religion = protestant
+        size = 58
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 322
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 1642
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 2800
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 28649
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 732
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = protestant
+        size = 3800
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 791
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 3870
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 5000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 69294
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 286
+    }
+	craftsmen = {
+        culture = north_german
+        religion = protestant
+        size = 0
+    }
+	clerks = {
+        culture = north_german
+        religion = protestant
+        size = 0
+    }
+}
+#Munster (464000/116000 POPS)
+581 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 234
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 205
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 1290
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 1000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 17154
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 1055
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 1290
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 5688
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 7000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 102051
+    }
+	craftsmen = {
+        culture = north_german
+        religion = protestant
+        size = 0
+    }
+}
+#Minden (216000/54000 POPS)
+582 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 351
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 439
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 1994
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 3000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 36039
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 234
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 234
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 1290
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 3000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 20292
+    }
+	craftsmen = {
+        culture = north_german
+        religion = protestant
+        size = 0
+    }
+}
+#Siegen (104000/26000 POPS)
+583 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 175
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 145
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 1290
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 300
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 14632
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 117
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 145
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 1055
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 200
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 12638
+    }
+}
+#Korbach (128000/32000 POPS)
+584 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 234
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 205
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 1113
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 3000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 19090
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 117
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 145
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 761
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 2400
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 12903
+    }
+}
+#under the rule of Lippe in 1836
+#Detmold (98000/24500 POPS)
+585 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 292
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = protestant
+        size = 460
+    }
+
+    officers = {
+        culture = north_german
+        religion = protestant
+        size = 28
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 263
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 1348
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 3000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 23940
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 23
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 1149
+    }
+}
+#Baden Region (1040000)
+#under the rule of Baden in 1836
+#Karlsruhe (632000/158000 POPS)
+586 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 1876
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = protestant
+        size = 8210
+    }
+
+    officers = {
+        culture = north_german
+        religion = protestant
+        size = 410
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 1759
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 8972
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 3400
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 163808
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 286
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 87
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 292
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 50
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 5161
+    }
+}
+#Freiburg (244000/61000 POPS)
+587 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 703
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 674
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 3342
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 2400
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 60966
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 87
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 234
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 50
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 4340
+    }
+}
+#Konstanz (164000/41000 POPS)
+588 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 410
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 439
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 2169
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 900
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 39910
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 87
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 234
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 50
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 4340
+    }
+}
+#Wurttemburg Region (1308000)
+#under the rule of Wurttemburg in 1836
+#Stuttgart (676000/169000 POPS)
+589 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 1759
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = protestant
+        size = 9960
+    }
+
+    officers = {
+        culture = north_german
+        religion = protestant
+        size = 527
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 1759
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 11143
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 1500
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 153897
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 205
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 1759
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 300
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 17800
+    }
+}
+#Heilbronn (340000/85000 POPS)
+590 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 996
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 966
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 4984
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 1800
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 92930
+    }
+}
+#Tubingen (292000/73000 POPS)
+591 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 469
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 439
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 2228
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 900
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 43312
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 380
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 2052
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 600
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 35922
+    }
+}
+#Swabia Region (833000)
+#under the rule of Bavaria in 1836
+#Augsburg (364000/91000 POPS)
+592 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 1290
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 1231
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 11730
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 2400
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 91434
+    }
+}
+#under the rule of Wurttemburg in 1836
+#Ulm (408000/102000 POPS)
+593 = {
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 117
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 644
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 9000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 7448
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 1055
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 1084
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 5336
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 2000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 98238
+    }
+}
+#under the rule of Prussia in 1836
+#Sigmaringen (61000/15250 POPS)
+594 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 175
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = protestant
+        size = 230
+    }
+
+    officers = {
+        culture = north_german
+        religion = protestant
+        size = 17
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 175
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 908
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 3000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 15061
+    }
+}
+#Franconia Region (1876000)
+#under the rule of Bavaria in 1836
+#Nuremburg (904000/226000 POPS)
+595 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 1583
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = protestant
+        size = 12310
+    }
+
+    officers = {
+        culture = north_german
+        religion = protestant
+        size = 527
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 1318
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 5278
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 4500
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 109528
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 1700
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 1612
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 6451
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 3000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 130525
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 23
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 1149
+    }
+}
+#Aschaffenburg (136000/34000 POPS)
+596 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 410
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 410
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 2052
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 800
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 36597
+    }
+}
+#Wurzburg (300000/75000 POPS)
+597 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 879
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 879
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 8211
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 2400
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 76831
+    }
+}
+#Bayreuth (536000/134000 POPS)
+598 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 644
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 644
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 2932
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 1300
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 53723
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 1055
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 5747
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 2000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 90672
+    }
+}
+#Bavaria Region (1536000)
+#under the rule of Bavaria in 1836
+#Munich (960000/220000 POPS)
+599 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 2463
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = protestant
+        size = 9380
+    }
+
+    officers = {
+        culture = north_german
+        religion = protestant
+        size = 469
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 2404
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 11730
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 11730
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 1290
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 7000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 206036
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 145
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 2346
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 300
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 13459
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 28
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 1436
+    }
+}
+#Landshut (164000/41000 POPS)
+600 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 469
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 497
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 2346
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 1000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 44250
+    }
+}
+#Ingolstadt (164000/41000 POPS)
+601 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 469
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 497
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 2346
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 2500
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 43606
+    }
+}
+#Regensburg (248000/62000 POPS)
+602 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 761
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 732
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 5865
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 2500
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 64191
+    }
+}
+#Silesia Region (200000) #see Czechia.txt and Poland.txt for balance of region
+#under the rule of Prussia in 1836
+#Gorlitz (200000/50000 POPS)
+687 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 996
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 469
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 2697
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 3000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 59881
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 81
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 234
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 4316
+    }
+}
+#East Prussia Region (712000) #see Poland.txt and Lithuania.txt for balance of region
+#under the rule of Prussia in 1836
+#Konigsberg (484000/121000 POPS)
+695 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 2638
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = protestant
+        size = 15240
+    }
+
+    officers = {
+        culture = north_german
+        religion = protestant
+        size = 292
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 966
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 11730
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 5865
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 7000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 80438
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 205
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 1290
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 3000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 20790
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 580
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 87
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 292
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 5424
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 58
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 292
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 6626
+    }
+}
+#Gumbinnen (228000/57000 POPS) #now part of Russia
+697 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 1290
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 556
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 3049
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 1200
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 55453
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 28
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 117
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 50
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 2169
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 28
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 175
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 50
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 4457
+    }
+}

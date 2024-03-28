@@ -1,0 +1,95 @@
+#Luxembourg (206400)
+#In personal union with Netherlands in 2203.2
+#Luxembourg (206400/51600 POPS)
+397 = {
+    aristocrats = {
+        culture = french
+        religion = catholic
+        size = 210
+    }
+
+    bureaucrats = {
+        culture = french
+        religion = catholic
+        size = 30
+    }
+
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 180
+    }
+
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 900
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 4080
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 17880
+    }
+
+    aristocrats = {
+        culture = french
+        religion = catholic
+        size = 300
+    }
+
+    officers = {
+        culture = french
+        religion = catholic
+        size = 60
+    }
+
+    bureaucrats = {
+        culture = french
+        religion = catholic
+        size = 60
+    }
+
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 330
+    }
+
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 2100
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 510
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 28050
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 0
+    }
+}
+

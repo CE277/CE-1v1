@@ -1,0 +1,878 @@
+#Flanders Region (3837000)
+#Brussels (1158000/289500 POPS)
+387 = {
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 37.5
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 75
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 750
+    }
+
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 2137.5
+    }
+
+    aristocrats = {
+        culture = french
+        religion = catholic
+        size = 2250
+    }
+
+    officers = {
+        culture = french
+        religion = catholic
+        size = 300
+    }
+
+    bureaucrats = {
+        culture = french
+        religion = catholic
+        size = 12000
+    }
+
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 2437.5
+    }
+
+    capitalists = {
+        culture = french
+        religion = catholic
+        size = 75
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 225
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 4500
+    }
+
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 9000
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 15000
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 218587.5
+    }
+
+    aristocrats = {
+        culture = french
+        religion = catholic
+        size = 450
+    }
+
+    officers = {
+        culture = french
+        religion = catholic
+        size = 675
+    }
+
+    bureaucrats = {
+        culture = french
+        religion = catholic
+        size = 15000
+    }
+
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 375
+    }
+
+    capitalists = {
+        culture = french
+        religion = catholic
+        size = 225
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 450
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 7500
+    }
+
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 15000
+    }
+
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 3450
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 5625
+    }
+
+    labourers = {
+        culture = french
+        religion = catholic
+        size = 8475
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 0
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 0
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 0
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 0
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 0
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 0
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 0
+    }
+}
+#Bruges (684000/171000 POPS)
+388 = {
+    aristocrats = {
+        culture = french
+        religion = catholic
+        size = 1725
+    }
+
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 1687.5
+    }
+
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 15000
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 6000
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 150787.5
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 0
+    }
+}
+#Ghent (1056000/264000 POPS)
+389 = {
+    aristocrats = {
+        culture = french
+        religion = catholic
+        size = 2625
+    }
+
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 2625
+    }
+
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 15000
+    }
+
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 9000
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 9000
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 224625
+    }
+
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 75
+    }
+
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 7350
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 262.5
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 0
+    }
+}
+#Antwerp (531000/132750 POPS)
+390 = {
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 37.5
+    }
+
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 2212.5
+    }
+
+    aristocrats = {
+        culture = french
+        religion = catholic
+        size = 1237.5
+    }
+
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 1312.5
+    }
+
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 15000
+    }
+
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 5400
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 5625
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 101550
+    }
+
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 75
+    }
+
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 4387.5
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 112.5
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 0
+    }
+}
+#Hasselt (408000/102000 POPS)
+391 = {
+    aristocrats = {
+        culture = french
+        religion = catholic
+        size = 975
+    }
+
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 1012.5
+    }
+
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 5250
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 5625
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 93262.5
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 0
+    }
+}
+#Wallonia Region (2148000)
+#Liege (582000/145500 POPS)
+392 = {
+    aristocrats = {
+        culture = french
+        religion = catholic
+        size = 1275
+    }
+
+    officers = {
+        culture = french
+        religion = catholic
+        size = 525
+    }
+
+    bureaucrats = {
+        culture = french
+        religion = catholic
+        size = 15000
+    }
+
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 1275
+    }
+
+    capitalists = {
+        culture = french
+        religion = catholic
+        size = 225
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 300
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 6000
+    }
+
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 13500
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 18000
+    }
+
+    labourers = {
+        culture = french
+        religion = catholic
+        size = 91800
+    }
+
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 225
+    }
+
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 4500
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 600
+    }
+
+    labourers = {
+        culture = french
+        religion = catholic
+        size = 11737.5
+    }
+
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 112.5
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 5887.5
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 0
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 0
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 0
+    }
+}
+#Tournai (438000/109500 POPS)
+393 = {
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 150
+    }
+
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 1650
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 562.5
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 13200
+    }
+
+    aristocrats = {
+        culture = french
+        religion = catholic
+        size = 1050
+    }
+
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 937.5
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 150
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 3000
+    }
+
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 3750
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 562.5
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 99112.5
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 0
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 0
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 0
+    }
+}
+#Charleroi (594000/148500 POPS)
+394 = {
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 150
+    }
+
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 2250
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 600
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 15412.5
+    }
+
+    aristocrats = {
+        culture = french
+        religion = catholic
+        size = 1350
+    }
+
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 1312.5
+    }
+
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 5250
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 5625
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 121087.5
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 0
+    }
+}
+#Namur (318000/79500 POPS)
+395 = {
+    aristocrats = {
+        culture = french
+        religion = catholic
+        size = 825
+    }
+
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 825
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 150
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 3000
+    }
+
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 4500
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 5625
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 68700
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 0
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 0
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 0
+    }
+}
+#Spa (216000/54000 POPS)
+396 = {
+    aristocrats = {
+        culture = french
+        religion = catholic
+        size = 375
+    }
+
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 412.5
+    }
+
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 1950
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 5625
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 36262.5
+    }
+
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 112.5
+    }
+
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 675
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 525
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 12562.5
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 0
+    }
+}
+#Luxembourg Region (258000)
+#Arlon (258000/64500 POPS)
+398 = {
+    aristocrats = {
+        culture = french
+        religion = catholic
+        size = 675
+    }
+
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 637.5
+    }
+
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 3000
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 5625
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 58687.5
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 0
+    }
+}
+

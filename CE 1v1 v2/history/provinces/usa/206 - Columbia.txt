@@ -1,0 +1,11 @@
+owner = CHE
+controller = CHE
+add_core = CHE
+trade_goods = opium
+life_rating = 35
+1861.1.1 = {
+
+
+
+}
+1861.1.1 = { railroad = 3 }

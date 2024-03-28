@@ -1,0 +1,7 @@
+
+
+
+
+trade_goods = dye
+life_rating = 32
+colonial = 2

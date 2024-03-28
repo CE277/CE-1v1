@@ -1,0 +1,10 @@
+#Ostrobothnia Region (120000)
+#under the rule of Russia in 1836
+#Vaasa (272000/68000 POPS)
+346 = {
+	aristocrats = {
+		culture = swedish
+		religion = protestant
+		size = 100
+	}
+}

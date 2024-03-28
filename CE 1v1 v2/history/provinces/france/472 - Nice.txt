@@ -1,0 +1,15 @@
+trade_goods = grain
+life_rating = 34
+railroad = 2
+1850.1.1 = { 
+	railroad = 3 
+}
+1870.1.1 = { 
+	railroad = 4 
+}
+1900.1.1 = { 
+	railroad = 5 
+}
+1919.1.1 = { 
+	railroad = 6
+}

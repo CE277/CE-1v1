@@ -1,0 +1,11 @@
+##Starting NFs
+#	national_focus=
+#	{
+#"1"="colonize"
+#"2"="colonize"
+#	}
+#	colonize=
+#	{
+#		1=300
+#		2=300
+#	}
