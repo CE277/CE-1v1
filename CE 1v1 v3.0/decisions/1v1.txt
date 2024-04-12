@@ -1,0 +1,17 @@
+political_decisions = {
+
+	revert_unit = { 
+		alert = yes
+		picture = ce
+		potential = {
+			ai = no
+		}
+		allow = { 
+			ai = no
+			NOT = { has_global_flag = units }
+		}
+		effect = {
+			set_global_flag = units
+		}
+	}
+	

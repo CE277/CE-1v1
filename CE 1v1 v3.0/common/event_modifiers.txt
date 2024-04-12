@@ -784,3 +784,8 @@ kinda_bad_badboy = {
 	cb_generation_speed_modifier = -0.3
 	icon = 8
 }
+
+capital_supply_depot = {
+	max_attrition = -100
+	icon = 17
+}

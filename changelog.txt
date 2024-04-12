@@ -1,10 +1,17 @@
-v1: Checksum: (GRQO)
 
-Incorporated 11.0.7 combat
-Fixed special unit toolbar UI
-Added general events
+v3: Checksum (GARW)
 
-v2: Checksum (XAAX)
+Added capital supply hubs 
+Fixed 2 Dutch provinces having no localisation
+Removed all mobilisation size from national modifers (in effect removed +4 mob) 
+Made mobilisation instant (it only takes 1 day now)
+A decision has been made that will take unit build time to 120 days after war is declared if chosen by players
+Gave £1,000,000 to every nation day 1 through the general event (will stop AI bankruptcy)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+v2: Checksum (IYOX)
 
 Updated to 12.0.9 combat (don't think there was changes anyways)
 Incorporated borderless UI tabs 
@@ -14,3 +21,12 @@ Incorporated meme rivers
 Cleaned up bookmark
 Cleaned up excess files (Meme rivers still make the mod 10x the size than prior though :(
 Fixed France owning some overseas colonies in different start dates
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+v1: Checksum: (GRQO)
+
+Incorporated 11.0.7 combat
+Fixed special unit toolbar UI
+Added general events
