@@ -1,4 +1,46 @@
 
+v4: Checksum ()
+
+Updated the combat to CoRGI_puir 16 units and inventions (based on Gezeitenwende)
+
+---------------------------------------------------------------------------
+	Lategame Military rework:
+
+		~Raise Tank stats in 1900 to 100/100 and 0% support
+		~Increase Tactics gain 1914 by 25% (to 50%) (total of 150%)
+
+			CpT = Casulties per Tick (1 Combat Width, Full Strength Units)
+
+			NEW		INF/Arty (1900)		 		average of 165 CpT
+			OLD		INF/Arty (1900)		 		average of 180 CpT
+
+			NEW		Tank/Arty stack (1900)	 	average of 231 CpT
+			OLD		Tank/Arty stack (1900)	 	average of 261 CpT
+
+ 		~Raise Tank stats in 1914-18 to 130/130
+		~Raise Plane stats in 1914-18 to (0.5/0.5 900% Support)
+		~Nerf Artillery stats 1914-18 to (6.5/6.5) 400 Support)
+		~Increase Tactics gain 1914 by 25% (to 50%) (total of 200%)
+
+			NEW		INF/Arty (1918)		 		average of 192 CpT
+			OLD		INF/Arty (1918)		 		average of 189 CpT	
+
+			NEW		Tank/Arty stack (1918)	 	average of 340 CpT
+			OLD		Tank/Arty stack (1918)	 	average of 280 CpT
+
+			NEW		INF/Plane stack (1918)	 	average of 222 CpT
+			OLD		INF/Plane stack (1918)	 	average of 207 CpT
+
+			NEW		Tank/Plane stack (1918)	 	average of 370 CpT
+			OLD		Tank/Plane stack (1918)	 	average of 298 CpT
+
+			NEW		pure planes stack (1918)	average of 336 CpT
+			OLD		pure planes stack (1918)	average of 315 CpT		
+-----------------------------------------------------------------------------
+Added some localisation to the start dates
+
+
+
 v3: Checksum (GARW)
 
 Added capital supply hubs 
