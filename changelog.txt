@@ -1,7 +1,7 @@
 
-v4: Checksum (JDBK)
+v4: Checksum (VQSV)
 
-Updated the combat to CoRGI_puir 16 units and inventions (based on Gezeitenwende)
+Updated the combat to alpha CoRGI_puir 16 units and inventions (based on Gezeitenwende)
 
 ---------------------------------------------------------------------------
 	Lategame Military rework:
