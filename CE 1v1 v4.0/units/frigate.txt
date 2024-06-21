@@ -17,7 +17,7 @@ frigate = {
 	can_build_overseas = yes
 
 	#Building Costs
-	build_time = 180
+	build_time = 90
 	build_cost = {
 		clipper_convoy = 10
 		artillery = 4 #5
@@ -29,9 +29,9 @@ frigate = {
 	
 	supply_consumption = 1.0
 	supply_cost = {
-		clipper_convoy = 0.117  #0.13 #0.16
-		artillery = 0.018 #0.02 #0.08
-		canned_food = 0.045 #0.05
+		clipper_convoy = 0.13 #0.16
+		artillery = 0.02 #0.08
+		canned_food = 0.05
 	}
 	
 	#Naval Abilties

@@ -21,7 +21,7 @@ cruiser = {
 
 
 	#Building Costs
-	build_time = 380
+	build_time = 180
 	build_cost = {
 		steamer_convoy = 25
 		artillery = 20
@@ -35,18 +35,18 @@ cruiser = {
 	
 	supply_consumption = 1.0
 	supply_cost = {
-		steamer_convoy = 0.45 #0.5 #18.6
-		artillery = 0.09 #0.1       #15
-		canned_food = #0.15    #1.5
+		steamer_convoy = 0.5 #18.6
+		artillery = 0.05       #15
+		canned_food = 0.15    #1.5
 		#steel = 2.5           #11.75
 		#fuel = 0.14            #7.5 total 53.35
-		coal = 0.135 #0.15
+		coal = 0.15
 	}
 	
 	#Naval Abilties
 	hull = 30
-	gun_power = 22 #20
+	gun_power = 20
 	fire_range = 0.75
-	evasion = 0 #0
-	torpedo_attack = 2 #0
+	evasion = 0
+	torpedo_attack = 0
 }

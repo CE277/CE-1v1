@@ -16,25 +16,15 @@ tank = {
 
 
 	#Building Costs
-	build_time = 120
+	build_time = 1
 	build_cost = {
-		barrels = 10
-		artillery = 10
-		canned_food = 10
-		fuel = 5
-		regular_clothes = 2 #CE addition
+	grain = 0.2
 	}
 	
 	supply_consumption = 1.0
-	supply_cost = { #11.625 total base #28.48125 total late game cost
-		barrels = 0.072 #0.08 #5.6
-		artillery = 0.081 #0.09 #4.5
-		canned_food = 0.063 #0.07 #0.7
-		fuel = 0.0495 #0.055
-		liquor = 0.04  #CE addition
-		wine = 0.02  #CE addition
-	}
-	
+	supply_cost = {
+	grain = 0.2
+	}	
 
 	#Land Abilties
 	reconnaissance = 3

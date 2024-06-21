@@ -30,8 +30,8 @@ steam_transport = {
 	
 	supply_consumption = 1.0
 	supply_cost = {
-		steamer_convoy = 0.09 #0.10
-		coal = 0.09 #0.1
+		steamer_convoy = 0.10
+		coal = 0.1
 	}
 	
 	#Naval Abilties

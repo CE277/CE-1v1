@@ -21,7 +21,7 @@ commerce_raider = {
 
 
 	#Building Costs
-	build_time = 360
+	build_time = 180
 	build_cost = {
 		steamer_convoy = 13
 		artillery = 3
@@ -33,10 +33,10 @@ commerce_raider = {
 	
 	supply_consumption = 1.0
 	supply_cost = {
-		clipper_convoy = 0.27 #0.3  #origionally 12 steamers
-		artillery = 0.036 #0.04      #6
-		canned_food = 0.09 #0.1     #1   total 19
-		coal = 0.09 #0.1
+		clipper_convoy = 0.3  #origionally 12 steamers
+		artillery = 0.04      #6
+		canned_food = 0.1     #1   total 19
+		coal = 0.1
 	}
 	
 	#Naval Abilties
