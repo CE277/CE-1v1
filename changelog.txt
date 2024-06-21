@@ -1,5 +1,5 @@
 
-v4: Checksum (STRZ)
+v4: Checksum (JDBK)
 
 Updated the combat to CoRGI_puir 16 units and inventions (based on Gezeitenwende)
 
