@@ -27,7 +27,7 @@ post_napoleonic_army_doctrine = {
 		}
 		cuirassier = {
 			#attack = 0.75
-			defence = 0.5
+			defence = 1
 		}
 		artillery = {
 			#attack = 0.20
@@ -222,7 +222,7 @@ flexible_firepower = {
 		}
 		artillery_offensive = {
 			#attack = 0.45
-			defence = 0.54
+			defence = 0.51
 		}
 		cavalry = {
 			#attack = 0.7
@@ -406,7 +406,7 @@ low_echelon_fire_support = {
 		}
 		infantry_defensive = {
 			#attack = 1.2
-			defence = 2.25
+			defence = 2.55
 		}
 		infantry_offensive = {
 			#attack = 1.7
@@ -434,7 +434,7 @@ low_echelon_fire_support = {
 		}
 		artillery_offensive = {
 			#attack = 0.45
-			defence = 0.34
+			defence = 0.51
 		}
 		cavalry = {
 			#attack = 0.7
@@ -790,7 +790,7 @@ breech_loaded_rifle_armament = {
 			#defence = 0.20
 		}
 		artillery_defensive = {
-			attack = 0.54
+			attack = 0.51
 			#defence = 0.225
 		}
 		artillery_offensive = {
@@ -799,10 +799,10 @@ breech_loaded_rifle_armament = {
 		}
 		cavalry = {
 			attack = 1.05
-			defence = #0.35
+			#defence = 0.35
 		}
 		irregular = {
-			attack = 0.105
+			attack = 1.05
 			#defence = 0.35
 		}
 		#guard = {
@@ -980,7 +980,7 @@ bolt_action_rifle_armament = {
 		}
 		artillery_offensive = {
 			attack = 0.675
-			defence = 0.34
+			#defence = 0.34
 		}
 		cavalry = {
 			attack = 1.05
