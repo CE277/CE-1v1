@@ -1,4 +1,4 @@
-v5: Checksum: (IRVF)
+v5: Checksum: (EWDU)
 
 Added new localisation surrounding provinces, national focuses, specialised units
 Updated combat to CoRGI_puir 16 units and inventions (partially based on Gezeitenwende) (Credit to Ryan for making Gezeitenwende)
