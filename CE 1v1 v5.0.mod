@@ -1,0 +1,5 @@
+name = "CE 1v1 v5.0"
+path = "mod/CE 1v1 v5.0"
+user_dir = "CE 1v1 v5.0"
+replace_path = "decisions"
+replace_path = "events"

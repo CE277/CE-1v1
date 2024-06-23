@@ -1,3 +1,8 @@
+v5: Checksum: ()
+
+Added new localisation surrounding provinces, national focuses, specialised units
+Updated combat to CoRGI_puir 16 units and inventions (partially based on Gezeitenwende) (Credit to Ryan for making Gezeitenwende)
+Added the re-organise unit ui numbers addition from Res Publica (Credit to Pero for making it in Res Publica)
 
 v4: Checksum (VQSV)
 
