@@ -4,6 +4,39 @@ Added new localisation surrounding provinces, national focuses, specialised unit
 Updated combat to CoRGI_puir 16 units and inventions (partially based on Gezeitenwende) (Credit to Ryan for making Gezeitenwende)
 Added the re-organise unit ui numbers addition from Res Publica (Credit to Pero for making it in Res Publica)
 
+---------------------------------------------------------------------------
+
+	-Lowered Tank stats in 1900 to 60/60
+
+		CpT = Casualties per Tick (1 Combat Width, Full Strength Units)
+
+		FIX		INF/Arty (1900)		 		average of 200 CpT
+
+		NEW		Tank/Arty stack (1900)	 	average of 281 CpT
+		OLD		Tank/Arty stack (1900)	 	average of 358 CpT
+
+	-Lowered Tank stats in 1914-18 to 105/105
+	-Balanced Plane stats in 1914-18 to (0.5/0.5 950% Support) 
+        (was 1.5/1.5 because of oversight with machine-guns tech invention)
+
+		NEW		Tank/Arty stack (1918)	 	average of 325 CpT
+		OLD		Tank/Arty stack (1918)	 	average of 366 CpT
+
+		NEW		INF/Plane stack (1918)	 	average of 230 CpT
+		OLD		INF/Plane stack (1918)	 	average of 238 CpT
+
+		NEW		Tank/Plane stack (1918)	 	average of 370 CpT
+		OLD		Tank/Plane stack (1918)	 	average of 420 CpT
+
+		FIX		INF/Arty stack (1918)	 	average of 185 CpT
+
+-Additional military changes
+	-Renamed interwar infantry to interwar troops	
+-----------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 v4: Checksum (VQSV)
 
 Updated the combat to alpha CoRGI_puir 16 units and inventions (based on Gezeitenwende)
@@ -44,6 +77,8 @@ Updated the combat to alpha CoRGI_puir 16 units and inventions (based on Gezeite
 -----------------------------------------------------------------------------
 Added some localisation to the start dates
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 v3: Checksum (GARW)
