@@ -1,4 +1,4 @@
-v5.1 Checksum: ()
+v5.1 Checksum: (CRGO)
 
 Rebalanced the 1850 scenario by giving Germany 1 more brigade worth of solider pops and some more farmer pops to equal French mob
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
